@@ -1,0 +1,513 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img {
+margin-left: 35.5%;
+}
+
+.cuadrado {
+    width: 1300px;
+    height: 250px;
+    background-image: url("./images/_\ \(7\).jpeg");
+    box-shadow: 20px 10px 50px rgb(146, 64, 64);
+}
+
+.cuadradro1 {
+    width: 230px;
+    height: 110px;
+    background-color: yellow;
+    margin-top: -272px;
+    margin-left: 17.10%;
+}
+
+.name {
+    @font-face {
+        font-family: ;
+        src: url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Nosifer&family=Sedgwick+Ave+Display&display=swap');}
+        color: rgb(0, 0, 0);
+        font-size: xx-large;
+        text-align: center
+}
+
+.profesion {
+    @font-face {
+        font-family: ;
+        src: url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Nosifer&family=Sedgwick+Ave+Display&display=swap');}
+    color: rgb(255, 0, 0);
+    margin-left: 19%;
+}
+
+.material-symbols-outlined {
+    color: rgb(0, 0, 0);
+}
+
+.contenedorLogos {
+    display: grid;
+    row-gap: 30px;
+    margin-left: 60%;
+    margin-top: -100px;
+}
+
+.contenedorText {
+    font-family: monospace;
+    font-size: 10px;
+    margin-left: 63%;
+    margin-top: -148px;
+}
+
+.number {
+    color: rgb(255, 0, 0);
+}
+
+.numbers {
+    margin-top: -15px;
+    color: aliceblue;
+}
+
+.cajasHead {
+
+    margin-left: 765px;
+    margin-top: -159px;
+
+}
+
+.cajaUno {
+
+background-color: yellow;
+height: 30px;
+width: 40px;
+
+}
+
+.insedeBox {
+
+border-radius: 25%;    
+background-color: yellow;
+height: 30px;
+width: 50px;
+    
+}
+
+.cajaDos {
+margin-top: 25px;
+background-color: yellow;
+height: 30px;
+width: 40px;
+
+}
+
+.insideBox1 {
+
+border-radius: 25%;    
+background-color: yellow;
+height: 30px;
+width: 50px;
+
+}
+
+.cajaTres {
+margin-top: 25px;
+background-color: yellow;
+height: 30px;
+width: 40px;
+
+}
+
+.insideBox2 {
+
+border-radius: 25%;    
+background-color: yellow;
+height: 30px;
+width: 50px;
+
+}
+
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.instagram {
+    margin-top: -15px;
+    color: aliceblue;
+}
+
+.sitio {
+    color: rgb(255, 0, 0);
+}
+
+.marvel {
+    margin-top: -15px;
+    color: aliceblue;
+}
+
+.preguntas {
+  color: aliceblue;
+  font-size: 7px;
+  display: flex;
+  writing-mode: vertical-rl;
+  margin-top: 100px;
+}
+.quienSoy {
+    margin-bottom: 100px;
+}
+.educacion {
+    margin-bottom: 100px;
+}
+.premios {
+    margin-bottom: 100px;
+} 
+.boxs {
+    display: grid;
+    margin-top: -380px;
+    margin-left: 30px;
+
+}
+.boxOne {
+    margin-bottom: 170px;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.boxTwo {
+    margin-bottom: 170px;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.boxTree {
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.preguntasDos {
+    color: aliceblue; 
+    font-size: 7px;
+    display: flex;
+    writing-mode: vertical-rl;
+    margin-left: 650px;
+    margin-top: -455px;
+}
+.experto {
+    margin-bottom: 100px;
+}
+.experiencia {
+    margin-bottom: 100px;
+}
+.intereses {
+    margin-bottom: 100px;
+}
+.boxsDos {
+    display: grid;
+    margin-top: -448px;
+    margin-left: 661px;
+}
+.boxFour {
+    margin-bottom: 170px;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.boxFive {
+    margin-bottom: 170px;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.boxSix {
+    margin-bottom: 170px;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.textMain {
+    color: aliceblue;
+    font-size: 12px;
+    margin-top: -670px;
+    margin-left: 60px;
+}
+.respuesta {
+    margin-bottom: 150px;
+    margin-top: -20px;
+}
+.respuesta1 {
+    margin-bottom: 150px;
+}
+.linea {
+    width: 515px;
+    margin-left: -10px;
+}
+.circulosLogos {
+    display: flex;
+    margin-left: 150px;
+    margin-top: -370px;
+}
+.circuloUno {
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+
+} 
+.circulo2 {
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+
+}
+.circulo3 {
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.circulo4 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.logosCirculos {
+    margin-left: 160px;
+    margin-top: -40px;
+}
+.hero{
+   margin-right: 28px;
+}
+.escudo {
+    margin-right: 30px;
+}
+.punteria {
+    margin-right: 27px;
+}
+.textLogos {
+    margin-left: 160px;
+    display: flex;
+    color: aliceblue;
+    font-size: 5px
+}
+.heroText {
+    margin-right: 30px;
+}
+.escudoText {
+    margin-right: 26px;
+}
+.killerText {
+    margin-right: 30px;
+}
+.textoDerecha {
+    color: aliceblue;
+    margin-left: 695px;
+    font-size: 12px;
+    margin-top: -130px;
+}
+.experienciaDed {
+    margin-top: 120px;
+}
+.barras {
+    margin-left: 695px;
+    margin-top: -170px;
+
+}
+.contenedor {
+    border-radius: 27.5%;
+    text-align: left;
+    width: 300px;
+    height: 15px;
+    background-color: darkred;
+}
+.espacio {
+    animation: espacio 10s forwards;
+    border-radius: 27.5%;
+    width: 190px;
+    height: 15px;
+    background-color: darkred;
+    text-align: right;
+}
+.porcentaje {
+    border-radius: 27.5%;
+    width: 290px;
+    height: 15px;
+    background-color: hsl(15, 100%, 50%);
+    text-align: right;
+}
+@keyframes espacio {
+
+    0% {
+        width: 195px;
+    }
+    
+}
+.numeroBarra{
+    font-size: 15px;
+}
+.contenedor1 {
+    border-radius: 27.5%;
+    text-align: left;
+    width: 300px;
+    height: 15px;
+    background-color: darkred;
+}
+.espacio1 {
+    animation: espacio1 10s forwards;
+    border-radius: 27.5%;
+    width: 290px;
+    height: 15px;
+    background-color: darkred;
+    text-align: right;
+}
+.porcentaje1 {
+    border-radius: 27.5%;
+    width: 290px;
+    height: 15px;
+    background-color: hsl(15, 100%, 50%);
+    text-align: right;
+}
+.numeroBarra1{
+    font-size: 15px;
+}
+@keyframes espacio1 {
+
+    0% {
+        width: 195px;
+    }
+    
+}
+.contenedor2 {
+    border-radius: 27.5%;
+    text-align: left;
+    width: 300px;
+    height: 15px;
+    background-color: darkred;
+}
+.espacio2 {
+    border-radius: 27.5%;
+    width: 290px;
+    height: 15px;
+    background-color: darkred;
+    text-align: right;
+}
+.porcentaje2 {
+    animation: porcentaje2 10s forwards;
+    border-radius: 27.5%;
+    width: 50px;
+    height: 15px;
+    background-color: hsl(15, 100%, 50%);
+    text-align: right;
+}
+.numeroBarra2{
+    font-size: 15px;
+}
+@keyframes porcentaje2 {
+
+    0% {
+        width: 195px;
+    }
+    
+}
+.letrasBarras {
+    color: rgb(255, 255, 255);
+    font-size: 6px;
+    margin-left: 1000px;
+    margin-top: -70px;
+}
+
+.circulosLogosA2 {
+    display: flex;
+    margin-left: 800px;
+    margin-top: 240px;
+}
+.circuloA1 {
+    margin-right: 15px;
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     background-color: yellow;
+ 
+ } 
+ .circuloA2 {
+     margin-right: 15px;
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     background-color: yellow;
+ 
+ }
+ .circuloA3 {
+     margin-right: 15px;
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     background-color: yellow;
+ }
+ .circuloA4 {
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.circuloA5 {
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.logosInteres {
+    margin-left: 808px;
+    margin-top: -40px;
+}
+.musica {
+margin-right: 30px;
+}
+.crypto {
+    margin-right: 29px;
+}
+.scam {
+    margin-right: 35px;
+}
+.lata {
+    margin-right: 23px;
+}
+.letrasLogos {
+    display: flex;
+    color: aliceblue;
+    font-size: 6px;
+    margin-left: 800px;
+}
+.music {
+    margin-left: 3px;
+    margin-right: 19px;
+}
+.money {
+    margin-right: 15px;
+}
+.estafa {
+    margin-right: 12px;
+}
+.grafiti {
+    margin-right: 12px;
+}
+.parental {
+    color: aliceblue;
+    background-color: black;
+    margin-left: 460px;
+    margin-top: 10px;
+    width: 23.5%;
+}
+.censura {
+    margin-top: -245px;
+    margin-left: 429px;
+}
+.censuraPng {
+    width: 200px;
+    height: 200px;
+}
